@@ -1,2 +1,3 @@
 # Migration
-Learn to migrate from Bit Bucket to Gut Hub
+Learn to migrate from Bit Bucket to GitHub
+Automation - woukld be next step
